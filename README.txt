@@ -1,3 +1,5 @@
+This website is going to be used for my bio for my Professional Certificate in Coding course. I've used different templates and modified them as needed for my website. These include bootstrap and phantom by HTML5 UP. The bootstrap information is in the corresponding js and css folders. See below for the Phantom information.
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
